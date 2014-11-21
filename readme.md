@@ -7,7 +7,7 @@ So I wrote a simple script I can execute from within the Project folder where th
 
 ### Usage ###
 
-* pip install git+ssh://git@github.com/virogenesis/pycharm_vcsrootgenerator.git  
+* pip install git+https://github.com/virogenesis/pycharm_vcsrootgenerator.git
 * Navigate to your project root folder, the one with .idea folder in it.  
 * python update_roots.py  
 
