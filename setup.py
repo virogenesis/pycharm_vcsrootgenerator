@@ -11,6 +11,6 @@ setup(
         'lxml',
     ],
     license='MIT',
-    scripts = glob.glob("Scripts/*.py"),
+    scripts = glob.glob("scripts/*.py"),
     long_description="VCS root generator"
 )
